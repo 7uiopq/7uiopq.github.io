@@ -1,7 +1,7 @@
 <h1 align="center"> xkcd bot. </h1>
 
 <p align="center">
-  <img src="./src/assets/xkcd.png" width="350" alt="The xkcd logo.">
+  <img src="https://i.imgur.com/hokLpHB.png" width="350" alt="The xkcd logo.">
 </p>
 
 <p align="center">
